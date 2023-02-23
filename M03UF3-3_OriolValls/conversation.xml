@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversation>
+	<sentence symbol="+">
+		<name>Paco</name>
+		<content>¿Sabes que al nacer tenemos 300 huesos, pero de adulto solo tenemos 206?</content>
+	</sentence>
+	<sentence symbol="-">
+		<name>Giuseppe</name>
+		<content>¡¿Ah si?!Pues los búhos son las únicas aves que pueden ver el color azul.</content>
+	</sentence>
+	<sentence symbol="+">
+		<name>Paco</name>
+		<content>Buen dato crack... ¿Cuanto hemos de seguir hablando?</content>
+	</sentence>
+</conversation>
